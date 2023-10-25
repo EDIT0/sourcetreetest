@@ -5,8 +5,5 @@ master-4
 master-5
 one-1
 master-6
-<<<<<<< Updated upstream
 one-2
-=======
 master-7
->>>>>>> Stashed changes
